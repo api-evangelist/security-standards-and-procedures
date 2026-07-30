@@ -1,3 +1,15 @@
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/security-standards-and-procedures.png
 name: Security Standards and Procedures
 description: Frameworks and documented guidelines that establish security requirements, controls, and best practices for protecting organizational assets and information systems. It plays a critical role in protecting organizational assets and maintaining a strong security posture.
 url: https://www.iso.org/isoiec-27001-information-security.html
